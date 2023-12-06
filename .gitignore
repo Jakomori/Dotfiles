@@ -21,6 +21,15 @@
 
 !readme.txt
 
+!.personal/
+.personal/*
+
+!.personal/custom_export.sh
+
+!.personal/touchegg.conf
+!.personal/khotkeysrc
+!.personal/kglobalshortcutsrc
+
 **~
 *~
 *#
