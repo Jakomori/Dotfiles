@@ -1,0 +1,27 @@
+#	Jakomo's dotfiles .gitignore
+#	ignored files from git
+
+/*
+#	whitelist mode: on
+
+!.gitignore
+#	never forget
+
+!.bash_profile
+!.bashrc
+
+!.zshrc
+!.my_zsh
+
+!.profile
+
+!dotfiles_export.sh
+!yay_install.sh
+!zsh_install.sh
+
+!readme.txt
+
+**~
+*~
+*#
+**#
